@@ -1,0 +1,100 @@
+﻿Blaze|AS|07 16 36 53 64
+Fuller| Catalunya|04 47 59 67 87
+Deacon|PV|02 23 75 71 36
+Burke|MA|09 73 14 98 02
+Burton|CN|04 92 76 33 18
+Hasad|Madrid|08 55 96 32 30
+Justin|Galicia|09 28 28 21 90
+Hasad|Madrid|09 32 06 93 53
+Guy|Madrid|07 52 56 39 69
+Ryder|Canarias|04 86 50 70 55
+Tucker|Comunitat Valenciana|07 43 67 48 62
+Basil|Canarias|09 49 94 29 53
+Marsden|Catalunya|09 07 72 86 19
+Alvin|Illes Balears|07 57 02 92 66
+Boris|BA|04 01 52 63 32
+Slade|Catalunya|07 98 29 10 56
+Dillon|Extremadura|04 26 26 82 29
+Joshua|CL|08 66 02 81 32
+Lawrence|AN|06 25 37 96 21
+Barrett|CL|09 72 73 66 52
+Marshall|Melilla|04 52 74 83 67
+Cooper|Cantabria|08 42 87 46 00
+Travis|PV|03 14 32 59 21
+Ferdinand|CA|05 89 46 82 36
+Howard|Andalucía|05 15 35 16 90
+Kaseem|Canarias|05 17 04 53 28
+Zeus|MA|07 46 12 27 70
+Kuame|AN|03 63 72 27 12
+Samson|GA|01 28 99 66 73
+Herrod|CL|06 37 60 68 46
+Rigel|Madrid|02 19 66 79 70
+Jerry|Andalucía|04 47 97 68 56
+Andrew|MA|09 93 29 77 91
+Hamish|Catalunya|06 76 63 23 79
+Noble|Galicia|02 93 66 90 24
+Finn|AN|09 48 11 40 08
+Colorado|Comunitat Valenciana|04 44 44 16 85
+Blaze|Madrid|06 50 75 17 44
+Erich|Euskadi|01 39 78 27 64
+Elmo|PV|05 89 82 35 09
+Allistair|Galicia|03 21 72 74 85
+Ishmael|AN|01 53 81 75 94
+Robert|Andalucía|05 61 54 10 47
+Fritz|CV|03 78 02 71 07
+Xavier|Madrid|09 38 83 81 22
+Carl|AN|07 94 40 47 66
+Garrison|Andalucía|07 93 09 90 07
+Jerome|CL|02 50 26 36 58
+Hayden|GA|06 28 12 67 05
+Daquan|Euskadi|03 51 35 41 33
+Phelan|Catalunya|09 38 16 99 76
+Ahmed|Aragón|09 42 34 56 64
+Baxter|Canarias|09 53 68 00 84
+Tyrone|AR|05 65 05 17 23
+Davis|Comunitat Valenciana|05 61 20 92 58
+Thaddeus|CV|07 88 28 28 72
+Buckminster|Andalucía|02 26 19 10 33
+Arsenio|Catalunya|05 12 86 10 94
+Vladimir|Principado de Asturias|04 15 00 62 54
+Kennedy|NA|04 67 44 53 83
+Adam|Comunitat Valenciana|07 20 54 46 98
+Finn|PV|08 93 88 88 28
+Allistair|Madrid|03 52 23 14 23
+Raja|MA|02 78 33 47 64
+Fitzgerald|MU|07 56 18 56 92
+Hyatt|CL|08 05 84 25 41
+Maxwell|Andalucía|01 40 90 68 98
+Chester|CN|09 18 39 82 29
+Isaiah|CA|03 05 92 86 80
+Colin|CV|03 43 19 65 61
+Cade|MA|06 51 47 28 09
+Burton|Castilla - La Mancha|05 57 52 09 30
+Hamilton|CN|03 76 23 49 25
+Tucker|MA|08 83 49 78 29
+Colton|CN|06 65 56 03 27
+Dalton|Canarias|03 14 32 75 65
+Price|EX|04 74 18 96 90
+Valentine|PV|04 18 73 19 09
+Tobias|MA|03 27 73 68 76
+August|MA|01 51 18 33 63
+Raja|MA|01 50 68 81 47
+Garth|CV|03 02 29 53 49
+Dexter|NA|07 11 07 77 08
+Paki|Principado de Asturias|04 74 64 08 58
+Hammett|AN|01 63 04 64 74
+Chaim|CV|01 29 33 14 86
+Macaulay|MA|09 51 29 69 74
+John|Andalucía|06 73 15 69 46
+Armand|Euskadi|01 05 96 37 01
+Cyrus|Comunitat Valenciana|03 56 47 75 80
+Holmes|Castilla y León|03 85 80 23 96
+Vaughan|Castilla - La Mancha|02 81 42 97 43
+Leroy|Euskadi|02 44 23 63 76
+Guy|AN|01 38 49 00 81
+Garrett|Catalunya|08 99 21 90 37
+Trevor|Catalunya|03 15 49 25 62
+Cullen|MA|02 91 78 93 93
+Kane|GA|04 14 69 24 39
+Neil|PV|01 40 49 50 96
+Nathan|Catalunya|08 93 60 00 51
